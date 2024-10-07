@@ -1,5 +1,5 @@
 <h1 align="left">Hi everyone 👋, I'm Anton</h1>
-<h3 align="left">I am a robotics and computer vision engineer. I am involved in precise positioning, computer vision SLAM, ROS and RTOS.ionate frontend developer from India</h3>
+<h3 align="left">I am a robotics and computer vision engineer. I am involved in precise positioning, computer vision SLAM, ROS and RTOS.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
