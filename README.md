@@ -66,4 +66,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonami-cad&show_icons=true&locale=en&layout=compact" alt="tonami-cad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonami-cad&show_icons=true&locale=en&layout=compact" alt="tonami" /></p>
